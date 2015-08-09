@@ -5,12 +5,12 @@ public class CommUtitl {
 
 	public static String ideaPackage = "app/src/main/java/";
 	/**
-	 * ¹¤³Ì¸ùÄ¿Â¼
+	 * å·¥ç¨‹æ ¹ç›®å½•
 	 */
 	public static String projPath = "";
 
 	/**
-	 * ¹¤³Ì°üÃû
+	 * å·¥ç¨‹åŒ…å
 	 */
 	public static String projPackage = "";
 
@@ -19,37 +19,37 @@ public class CommUtitl {
 	 */
 	public static String activityname = "";
 	/**
-	 * activity°üÃû
+	 * activityåŒ…å
 	 */
 	public static String activitypackageName = "";
 
 	/**
-	 * entity°üÃû
+	 * entityåŒ…å
 	 */
 	public static String entityppackage = "";
 
 	/**
-	 * entity Ãû×Ö
+	 * entity åå­—
 	 */
 	public static String entityName = "";
 
 	/**
-	 * adapterÃû×Ö
+	 * adapteråå­—
 	 */
 	public static String adapterName = "TempAdapter";
 
 	/**
-	 * adapter°üÃû
+	 * adapteråŒ…å
 	 */
 	public static String adapterPackageName = "";
 
 	/**
-	 * fragmentpackagename°üÃû
+	 * fragmentpackagenameåŒ…å
 	 */
 	public static String fragmentpackagename = "";
 
 	/**
-	 * adapterÃû×Ö
+	 * adapteråå­—
 	 */
 	public static String fragmentname="";
 	

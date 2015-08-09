@@ -12,7 +12,7 @@ import com.intellij.openapi.actionSystem.DataKeys;
 public class BaseAction  extends AnAction{
 
     /**
-     * 当前选中文件绝对 路径
+     * 褰撳墠閫変腑鏂囦欢缁濆 璺緞
      */
   public   String path = "";
 

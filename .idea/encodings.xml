@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/BaseAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/GenActivityAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/GenAdapterAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/GenFragmentAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/Myaction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/Myaction2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/ShowIndosAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/TestSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/temp/BaseFragment.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/temp/BaseFragment1.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/temp/MyBaseAdapter.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/temp/SimpleAdapter.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/temp/TempFragment1.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/temp/Tempadapter.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/temp/TempleteActivity1.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/temp/TempleteFragment.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/temp/activity_plu.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/utils/CommUtitl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/utils/IdNamePair.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/utils/SaxHander.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/utils/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/utils/Utils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dyc/test/utils/ViewCodeUtil.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
