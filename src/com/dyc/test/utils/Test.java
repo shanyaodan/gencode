@@ -128,8 +128,8 @@ public class Test {
                 File f2 = new File(f.getAbsolutePath() + "/" + "BaseFragment.java");
                 f2.createNewFile();
                 FileOutputStream fo = new FileOutputStream(f2);
-
                 fo.write(baseStr.getBytes());
+
             }
 
         } catch (IOException e) {

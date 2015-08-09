@@ -49,13 +49,5 @@ public class Tempadapter extends MyBaseAdapter{
 		//setAdapterViewWithData
 		return convertView;
 	}
-
-
-	class ViewHolder {
-
-		//holdercontent
-
-	}
-	
 	
 }
